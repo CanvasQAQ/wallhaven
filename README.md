@@ -8,10 +8,11 @@ You can use it to get the wallpaper from wallhaven.cc
 
 之后有余力会改的更好用一点。
 
-设计构想：
+今后设计构想：
 
 - 构建GUI
 - 新增语言选择，方便国内外友人使用
+- 提供查重功能，不再下载文件夹中已有的图片
 
 ## 使用指南
 
