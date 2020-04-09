@@ -2,6 +2,12 @@
 
 You can use it to get the wallpaper from wallhaven.cc
 
+本项目github地址：[CanvasQAQ/wallhaven](https://github.com/CanvasQAQ/wallhaven)
+
+本项目gitee地址：[CanvasQAQ/wallhaven](https://gitee.com/CanvasQAQ/wallhaven)
+
+发布地址主要在github上，gitee仅定期同步。
+
 ## 项目来源及计划
 
 本项目根据原作者cooperun的[wallhaven项目](https://github.com/Cooperun/webspider/tree/master/wallpaperheaven)更改而来，初始计划仅仅是以能用为目的(作者一年没更新了QAQ)
